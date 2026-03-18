@@ -14,12 +14,11 @@ int main()
          std::cout << "\n";
      }
     std::cout << "\n";
-    
+
 //==============================
 // num 2
 
 
-    
     for(int i = 5; i >= 1; --i) 
      { std::cout << "\n";
        for(int j = 5; j >= 5 - (i - 1); --j)
